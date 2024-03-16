@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+body{
+    background: rgb(155,50,174);
+background: linear-gradient(90deg, rgba(155,50,174,1) 0%, rgba(129,224,248,1) 99%);
+}
+
+.father{
+    display: flex;
+    padding: 60px;
+}
+.container{
+    width: 65%;
+    height: 630px;
+    display: flex;
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.picture{
+    width: 450px;
+    height: 630px;
+}
+.picture img{
+    width: 450px;
+    height: 630px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.login{
+    padding: 30px;
+    width: 450px;
+    
+}
+.unicorn{
+font-size: 40px;
+margin-bottom: 20px;
+text-align: center;
+}
+b{
+    font-size: 20px;
+}
+p{
+    margin-top: 15px;
+}
+.inputt{
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+pre{
+    margin-top: 25px;
+}
+button{
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(61, 61, 244);
+
+}
+.googlee{
+    padding: 10px;
+    width: 100%;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(40, 39, 39);
+    margin-top: 50px;
+}
+.box{
+    padding: 90px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    color: white;
+}
+.free{
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 50px;
+    font-size: 15px;
+    color: white;
+    background: #090909;
+}
